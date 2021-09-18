@@ -1,0 +1,33 @@
+html {
+  min-height: 100%;
+}
+
+svg {
+  padding: 10px;
+}
+
+#wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background: #AA2407;
+  min-height: 100%;
+}
+
+#content {
+  text-align: center;
+  background: #ced2d9;
+  min-height: 600px;
+  min-width: 1200px;
+}
+
+#legend {
+  display: flex;
+  margin: auto;
+  width: 19%;  
+  justify-content: center;
+  border: solid black;
+}
+
